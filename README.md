@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">A simple pingpong game using python's pygame</p>
+A simple pingpong game using python's pygame
 
 ![Menu Output Image](/assets/images/mainmenu.png)
 
