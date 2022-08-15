@@ -2,11 +2,10 @@
 
 ---
 
-<p align="center">lkklsjikjskj</p>
-```py
-print("nkjjkaja")
-```
-|kdjkkjdjd|lksklsklksks|
-|---|---|
+<p align="center">A simple pingpong game using python's pygame</p>
 
-[Google](https://www.google.com)
+![Menu Output Image](/assets/images/mainmenu.png)
+
+![Game Output Image](/assets/images/game.png)
+
+![Game over Output Image](/assets/images/gameover.png)
